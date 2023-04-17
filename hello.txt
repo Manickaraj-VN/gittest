@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 manickaraj
+=======
+new word
+>>>>>>> 54efe49814edaee990c108fa40b94d9bf2665ee0
